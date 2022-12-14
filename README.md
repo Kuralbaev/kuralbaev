@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Temirlan</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [Portal MocroData](https://espd.payfintech.kz)
+- 🔭 I’m currently working on [Portal MacroData](https://espd.payfintech.kz)
 
 - 👨‍💻 All of my projects are available at [https://kuralbaev.netlify.app](https://kuralbaev.netlify.app)
 
